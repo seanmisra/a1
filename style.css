@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background: rgba(124, 174, 255,.35);
+}
+
+.jumbotron{
+    height:190px;
+    background: rgba(76, 133, 224,.25);
+}
+
+.jumbotron > h1 {
+    font-size:45px;
+}
+
+.jumbotron > p {
+    font-size:20px;
+}
+
+img{
+    border-radius:15px;
+}
+
+img:hover {
+    opacity: .95;
+}
+
+.lead {
+    font-size:calc(11pt + .2vw);  
+    line-height:calc(23pt - .2vw);
+    text-align:left;
+}
+
+blockquote {
+    color:#797b7f;
+}
+
+.btn-primary {
+    width:120px;
+}
+
+/* CSS only for mobile */
+@media only screen and (max-device-width: 1000px) {
+    .lead {
+        margin: 50px 50px 0px 50px;
+    }
+}
