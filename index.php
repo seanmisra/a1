@@ -59,7 +59,7 @@
                 <br>
                 <div class="btn-group">
                     <a class="btn btn-primary" href="https://www.linkedin.com/in/sean-misra-0972079b?trk=hp-identity-photo" role="button" target ="_blank">LinkedIn</a>
-                    <a class="btn btn-primary" href="mailto:misra.s@husky.neu.edu?subject=Advise&body=No&nbsp;one&nbsp;ever&nbsp;uses&nbsp;this&nbsp;email&nbsp;pop-up thing...&nbsp;Use&nbsp;PHP&nbsp;instead&nbsp;;)" role="button" target ="_blank">Email Me</a>
+                    <a class="btn btn-primary" href="mailto:misra.s@husky.neu.edu?subject=Advise" role="button" target ="_blank">Email Me</a>
                     <a class="btn btn-primary" href="https://github.com/seanmisra" role="button" target ="_blank">Github</a>
                 </div>
                 <br>
