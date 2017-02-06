@@ -42,8 +42,8 @@ blockquote {
 @media only screen and (max-device-width: 1000px) {
     .lead {
         margin: 50px 50px 0px 50px;
-	font-size: 3vw;
-	line-height: 4vw; 
+        font-size: 3vw;
+        line-height: 4vw; 
     }
     .btn-primary {
         width: 20vw; 

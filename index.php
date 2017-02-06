@@ -9,9 +9,6 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
         integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
         crossorigin="anonymous">
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-        crossorigin="anonymous"></script>
         <link rel="stylesheet" href="style.css">
     </head>
     
@@ -26,7 +23,7 @@
         <div class="container">
             <div class = "row">
                 <div class="col-md-4">
-                    <img src = "Images/my_photo.jpg" id ="profile_pic" alt = "A student in his mid-twenties with a collared blue shirt and polished hair smiles gently" title = "Picture taken in Mexico by ocean" height = "270">
+                    <img src = "Images/my_photo.jpg" alt = "A student in his mid-twenties with a collared blue shirt and polished hair smiles gently" title = "Picture taken in Mexico by ocean">
                 </div>
                 <div class="col-md-8">
                     <p class = "lead">  
@@ -62,7 +59,7 @@
             <br>
             <div class="btn-group">
                 <a class="btn btn-primary" href="https://www.linkedin.com/in/sean-misra-0972079b?trk=hp-identity-photo" role="button" target ="_blank">LinkedIn</a>
-                <a class="btn btn-primary" href="mailto:misra.s@husky.neu.edu?Subject=Hello" role="button" target ="_blank">Email Me</a>
+                <a class="btn btn-primary" href="mailto:misra.s@husky.neu.edu?subject=Advise&body=No one ever uses this email pop-up thing... Use PHP instead ;)" role="button" target ="_blank">Email Me</a>
                 <a class="btn btn-primary" href="https://github.com/seanmisra" role="button" target ="_blank">Github</a>
             </div>
             <br><br>
