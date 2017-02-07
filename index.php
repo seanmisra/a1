@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta name = "description" content="Sean Misra Profile">
         <meta name ="author" content="Sean Misra">
-        <meta name="keywords" content="Harvard,Sean,Misra,CSCI E-15">
+        <meta name="keywords" content="Harvard,Sean,Misra,CSCI E-15,Bootstrap">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
         integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
         crossorigin="anonymous">
@@ -57,14 +57,16 @@
                     <footer class="blockquote-footer">Michio Kaku</footer>
                 </blockquote>
                 <br>
-                <div class="btn-group">
-                    <a class="btn btn-primary" href="https://www.linkedin.com/in/sean-misra-0972079b?trk=hp-identity-photo" role="button" target ="_blank">LinkedIn</a>
-                    <a class="btn btn-primary" href="mailto:misra.s@husky.neu.edu?subject=Advise" role="button" target ="_blank">Email Me</a>
-                    <a class="btn btn-primary" href="https://github.com/seanmisra" role="button" target ="_blank">Github</a>
-                </div>
-                <br>
-                <br>
             </div>
         </main>
+        <footer>
+            <div class="btn-group">
+                <a class="btn btn-primary" href="https://www.linkedin.com/in/sean-misra-0972079b?trk=hp-identity-photo" role="button" target ="_blank">LinkedIn</a>
+                <a class="btn btn-primary" href="mailto:misra.s@husky.neu.edu?subject=Advise" role="button" target ="_blank">Email Me</a>
+                <a class="btn btn-primary" href="https://github.com/seanmisra" role="button" target ="_blank">Github</a>
+            </div>
+            <br>
+            <br>
+        </footer>
     </body>
 </html>
